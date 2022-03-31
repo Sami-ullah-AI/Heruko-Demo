@@ -4,3 +4,7 @@ Fake news detector is a type of application which check the news and pass it thr
 This is real world problem .
 you just only have to run py file to run the final product
 This data is trained by Agressivepassive algorithem .Because it work on real data and can update and retrain it on real data.
+
+
+
+Dataset use for this is news.csv you can download it from google
